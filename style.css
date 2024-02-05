@@ -1,0 +1,50 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #b49855
+  }
+  h1{
+    color:black;
+  }
+  header {
+    background-color:darkcyan;
+    color:grey;
+    padding: 20px;
+  }
+  
+  
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color:#bb0d0d;
+    text-decoration: none;
+  }
+  
+  
+  
+  footer {
+    background-color:darkcyan;
+    color: #fff;
+    padding: 10px;
+    
+  }
+  
+  #home img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    
+  }
+  
+  #portfolio{
+    background-color:#33837c;
+    padding: 10px;
+  }
+  li{
+    display: inline;
+    margin-right:10px ;
+  }
